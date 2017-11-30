@@ -3,16 +3,8 @@ For example, if the user focuses the camera on a word , he will be able to view 
 With the help of this android app , the pre primary students will be able to analyse the objects properly ,thus making the learning real fun.</p>
  
 #### How to run in Unity
- * [Download the project from github](https://github.com/ansh-ptel/Rajasthan_Hackathon)
+ * [Download the project from github](https://github.com/Logan1x/Learn-With-AR)
  * [Download Unity platform](https://unity3d.com/get-unity/download)
  * Import this project file into Unity. 
  
-#### How to run Project on Android
-* [Download the android application file from github](https://github.com/ansh-ptel/Rajasthan_Hackathon/tree/master/Apk)
-* Install it on your Android phone.
 
-### Screenshots of a sample Android app
-
-<p align="center">
-<img src="ScreenShot/marker.jpg" height = "270" width="270"> <img src="ScreenShot/marker1.jpg" height = "270" width="270"> 
-</p> 

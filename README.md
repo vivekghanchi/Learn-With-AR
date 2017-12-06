@@ -19,4 +19,10 @@ With the help of this android app , the pre primary students will be able to ana
 Link : https://youtu.be/WT_cpC--DZM
  
  
+ ## Developers
+
+- Vivek Ghanchi([@vivekghanchi](https://github.com/vivekghanchi))
+- Khushal Sharma([@Logan1x](https://github.com/Logan1x))
+- Harshwardan Singh([@Harshvardhan58](https://github.com/Harshvardhan58))
+ 
 

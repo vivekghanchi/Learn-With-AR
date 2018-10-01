@@ -6,13 +6,13 @@ With the help of this android app , the pre primary students will be able to ana
 
 ## Technology Stack
 
--  Unity
+-  Unity3D
 -  Vuforia
  
 ## How to run in Unity
  * [Download the project from github](https://github.com/Logan1x/Learn-With-AR)
  * [Download Unity platform](https://unity3d.com/get-unity/download)
- * Import this project file into Unity. 
+ * Import this project file into Unity
  
  
 
